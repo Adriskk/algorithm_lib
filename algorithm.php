@@ -6,7 +6,7 @@
  * @author - Adriskk, Poland
  * Sorting algorithms, structure algorithms,
  * and a little of the mathematic algorithms
- * @link
+ * @link https://github.com/Adriskk/algorithm_lib
  *
  */
 
